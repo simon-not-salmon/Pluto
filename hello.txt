@@ -1,8 +1,3 @@
 hello world
-<<<<<<< HEAD
-user needs to login
 
-asjfcnasbfiabfshbfskhabfhrabrhgbalab 
-=======
-user needs to logout 
->>>>>>> refs/remotes/origin/main
+user needs to logout
